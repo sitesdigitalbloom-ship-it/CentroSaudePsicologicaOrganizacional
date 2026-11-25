@@ -1,0 +1,44 @@
+# Alinhar · Centro de Saúde Psicológica e Organizacional
+
+> Clínica de psicologia em Arcoverde/PE, fundada pela psicóloga Edinete Costa (CRP 29521). Oferece psicoterapia para adultos, adolescentes e casais com Terapia Cognitivo-Comportamental e Terapia do Esquema, online e, em breve, presencial em Arcoverde, e psicologia organizacional para empresas.
+
+## Site
+
+- [Início](https://SUBSTITUIR-DOMINIO/): apresentação da Alinhar, temas de cuidado e agenda inicial de atendimento.
+- [Abordagem](https://SUBSTITUIR-DOMINIO/#abordagem): como funcionam a TCC e a Terapia do Esquema.
+- [Como funciona](https://SUBSTITUIR-DOMINIO/#como-funciona): as etapas do primeiro contato ao acompanhamento.
+- [Sobre](https://SUBSTITUIR-DOMINIO/#sobre): a psicóloga Edinete Costa e a trajetória da clínica.
+- [Empresas](https://SUBSTITUIR-DOMINIO/#empresas): psicologia organizacional, NR-01, clima, cultura e gestão de pessoas.
+- [Contato](https://SUBSTITUIR-DOMINIO/#contato): formulário, WhatsApp, e-mail e endereço.
+
+## Serviços
+
+- Psicoterapia individual para adultos: cuidado com ansiedade, depressão, luto, obesidade e desenvolvimento pessoal.
+- Psicoterapia para adolescentes: acompanhamento com participação dos responsáveis no início do processo.
+- Terapia de casal: espaço para as duas pessoas compreenderem os padrões da relação e melhorarem a comunicação.
+- Atendimento online: sessões por videochamada, com o mesmo sigilo do presencial.
+- Psicologia organizacional: apoio a empresas na gestão de riscos psicossociais da NR-01, no clima, na cultura e na gestão de pessoas.
+
+## Perguntas frequentes
+
+- Como funciona a terapia online? As sessões acontecem por videochamada, com o mesmo cuidado e sigilo do presencial, em um lugar reservado.
+- Quando começa o atendimento presencial em Arcoverde? O espaço no bairro São Miguel está em fase final de preparação; até lá, os atendimentos são online.
+- Quais horários estão disponíveis? Neste início, a agenda está aberta aos sábados pela manhã, com poucas vagas.
+- Vocês atendem adolescentes? Sim, com autorização e participação dos responsáveis no início do processo.
+- Como funciona a terapia de casal? As sessões acontecem com as duas pessoas, com espaço para que cada uma seja ouvida.
+- Quanto tempo dura a terapia? Depende dos objetivos de cada pessoa; as metas são definidas em conjunto e revistas ao longo do processo.
+- Qual é o valor da sessão? Os valores são informados diretamente no primeiro contato, pelo WhatsApp.
+- O que eu falo na terapia fica em sigilo? Sim, o sigilo é um dever ético previsto no Código de Ética Profissional do Psicólogo.
+- A Alinhar atende empresas? Sim, com psicologia organizacional voltada a riscos psicossociais, clima, cultura e gestão de pessoas.
+
+## Blog
+
+- [Artigos](https://SUBSTITUIR-DOMINIO/blog/): conteúdos sobre saúde emocional, relações e bem-estar no trabalho.
+- Lista de artigos atualizada em JSON: https://SUBSTITUIR-DOMINIO/blog/feed.json
+- Sitemap com todos os artigos: https://SUBSTITUIR-DOMINIO/sitemap.xml
+
+## Contato
+
+- WhatsApp: +55 87 99125-3626
+- E-mail: edinete@uol.com.br
+- Endereço: Rua Luís Alves de Carvalho, 175, São Miguel, Arcoverde/PE, CEP 56509-620 (espaço presencial em fase final de preparação)
