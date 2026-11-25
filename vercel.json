@@ -1,0 +1,45 @@
+{
+  "routes": [
+    {
+      "src": "/blog/?",
+      "dest": "/api/blog-delivery?path=/blog/index.html"
+    },
+    {
+      "src": "/blog/index\\.html",
+      "dest": "/api/blog-delivery?path=/blog/index.html"
+    },
+    {
+      "src": "/blog/chamada\\.html",
+      "dest": "/api/blog-delivery?path=/blog/chamada.html"
+    },
+    {
+      "src": "/blog/feed\\.json",
+      "dest": "/api/blog-delivery?path=/blog/feed.json"
+    },
+    {
+      "src": "/blog/sitemap\\.xml",
+      "dest": "/api/blog-delivery?path=/blog/sitemap.xml"
+    },
+    {
+      "src": "/blog/(?<slug>[a-z0-9][a-z0-9-]{0,199})\\.html",
+      "dest": "/api/blog-delivery?path=/blog/$slug.html"
+    },
+    {
+      "src": "/blog/(?<slug>[a-z0-9][a-z0-9-]{0,199})/?",
+      "dest": "/api/blog-delivery?path=/blog/$slug.html"
+    },
+    {
+      "src": "/sitemap\\.xml",
+      "dest": "/api/blog-delivery?path=/sitemap.xml"
+    },
+    {
+      "handle": "filesystem"
+    }
+  ],
+  "functions": {
+    "api/blog-delivery.js": {
+      "maxDuration": 30,
+      "includeFiles": "{blog/**/*.html,blog/feed.json,sitemap.xml}"
+    }
+  }
+}
